@@ -1,0 +1,7 @@
+/home/andreas/pico/pico2w-test/build/_deps/picotool/picotool
+/home/andreas/pico/pico2w-test/build/_deps/picotool/picotoolTargets.cmake
+/home/andreas/pico/pico2w-test/build/_deps/picotool/picotoolTargets-release.cmake
+/home/andreas/pico/pico2w-test/build/_deps/picotool/picotoolConfig.cmake
+/home/andreas/pico/pico2w-test/build/_deps/picotool/picotoolConfigVersion.cmake
+/home/andreas/pico/pico2w-test/build/_deps/picotool/enc_bootloader.elf
+/home/andreas/pico/pico2w-test/build/_deps/picotool/enc_bootloader_mbedtls.elf

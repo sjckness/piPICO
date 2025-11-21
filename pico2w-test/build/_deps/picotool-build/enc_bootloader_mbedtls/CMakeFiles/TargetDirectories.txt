@@ -1,0 +1,2 @@
+/home/andreas/pico/pico2w-test/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+/home/andreas/pico/pico2w-test/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+{
+    "name": "Pico Debug",
+    "type": "cortex-debug",
+    "request": "launch",
+    "servertype": "openocd",
+    "cwd": "${workspaceRoot}/build",
+    "executable": "${workspaceRoot}/build/my_project.elf",
+    "device": "RP2350",
+    "svdFile": "${env:PICO_SDK_PATH}/src/rp2_common/pico_platform/rp2350.svd",
+    "configFiles": [
+        "interface/picoprobe.cfg",
+        "target/rp2350.cfg"
+    ]
+}
